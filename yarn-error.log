@@ -1,0 +1,32 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js start
+
+PATH: 
+  C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\Budy\AppData\Local\Microsoft\WindowsApps;C:\adb;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\WinMerge;C:\Program Files (x86)\Skype\Phone\;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\bin;C:\Program Files\Java\jre1.8.0_111\lib\ext\mysql-connector-java-5.1.40-bin.jar;C:\Users\Budy\AppData\Roaming\Composer\vendor\bin;C:\Users\Budy\AppData\Roaming\npm;C:\sqlite;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Notepad++;C:\Program Files (x86)\Perforce;C:\Program Files\nodejs\;C:\Program Files (x86)\Yarn\bin\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft VS Code\bin;C:\Users\Budy\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jre1.8.0_111\lib\ext\mysql-connector-java-5.1.40-bin.jar;C:\Users\Budy\AppData\Roaming\Composer\vendor\bin;C:\Program Files\Heroku\bin;C:\Users\Budy\AppData\Roaming\npm;C:\Users\Budy\AppData\Local\Yarn\bin;;C:\Program Files\Microsoft VS Code\bin
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  8.11.1
+
+Platform: 
+  win32 x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Couldn't find a package.json file in "E:\\MyServer\\buddyy93.github.io"
+      at new MessageError (C:\Program Files (x86)\Yarn\lib\cli.js:186:110)
+      at C:\Program Files (x86)\Yarn\lib\cli.js:40048:15
+      at Generator.next (<anonymous>)
+      at step (C:\Program Files (x86)\Yarn\lib\cli.js:98:30)
+      at C:\Program Files (x86)\Yarn\lib\cli.js:109:13
+      at <anonymous>
